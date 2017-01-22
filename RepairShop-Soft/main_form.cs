@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RepairShop_Soft
 {
-    public partial class Form1 : Form
+    public partial class main_form : Form
     {
-        public Form1()
+        public main_form()
         {
             InitializeComponent();
         }
