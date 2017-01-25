@@ -19,6 +19,7 @@ namespace RepairShop_Soft
 
         private void main_form_Load(object sender, EventArgs e)
         {
+            //d
             GPclass.userbar = "ناشناخته";
             this.RightToLeft = RightToLeft.Yes;
             this.Text = "مدیریت تعمیرگاه       کاربر     :" + GPclass.userbar;
