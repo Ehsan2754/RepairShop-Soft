@@ -63,9 +63,79 @@ namespace RepairShop_Soft.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Certificate_2_Check {
+            get {
+                object obj = ResourceManager.GetObject("Certificate 2 Check", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Cookies_1_Configuration {
+            get {
+                object obj = ResourceManager.GetObject("Cookies 1 Configuration", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap delete1 {
             get {
                 object obj = ResourceManager.GetObject("delete1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Earth_Spider_Security {
+            get {
+                object obj = ResourceManager.GetObject("Earth Spider Security", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Network_2_Configuration {
+            get {
+                object obj = ResourceManager.GetObject("Network 2 Configuration", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Network_ID_2 {
+            get {
+                object obj = ResourceManager.GetObject("Network ID 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2016_07_14_14_50_12 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2016-07-14_14-50-12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2016_07_14_15_23_09 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2016-07-14_15-23-09", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
