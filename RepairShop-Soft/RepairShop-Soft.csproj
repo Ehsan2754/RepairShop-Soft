@@ -61,10 +61,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Settings.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="main_form.resx">
       <DependentUpon>main_form.cs</DependentUpon>
     </EmbeddedResource>
@@ -90,33 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Databases\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\delete1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Certificate 2 Check.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Cookies 1 Configuration.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\photo_2016-07-14_14-50-12.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\photo_2016-07-14_15-23-09.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Network ID 2.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Network 2 Configuration.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Earth Spider Security.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

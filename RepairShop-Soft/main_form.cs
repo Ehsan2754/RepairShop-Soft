@@ -19,8 +19,9 @@ namespace RepairShop_Soft
 
         private void main_form_Load(object sender, EventArgs e)
         {
+            
             //d
-            contextMenuStrip1.Show();
+            
             this.RightToLeft = RightToLeft.Yes;
            // GPclass.userbar = "ناشناخته";
            // RTB_notes.Text = "";
